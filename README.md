@@ -11,8 +11,8 @@ AI Voice Modular is a Python-based tool that lets you create AI-generated songs 
 ```bash
 pip install -r requirements.txt
 ```
-I recommend you to create environment to run this model.
-(you may face problems in fairseq so be careful)
+- I recommend you to create environment to run this model.
+- (you may face problems in fairseq so be careful)
 2) Download the models by running download_models.py
 
 3) To download the torchvision cuda to run on local machine.

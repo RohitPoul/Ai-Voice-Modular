@@ -1,11 +1,11 @@
 # Ai-Voice-Modular
 AI Voice Modular is a Python-based tool that lets you create AI-generated songs with ease. By providing input audio files and leveraging RVC (Retrieval-based Voice Conversion), this project enables the transformation of vocals into high-quality, AI-modulated outputs. Ideal for musicians, sound designers, and AI enthusiasts, AI Voice Modular combines simplicity with advanced voice synthesis to help you explore and create unique audio experiences.
 
-Features:
+## Features:
 
-AI Song Generation: Input audio files and transform them into new, AI-generated voices.
-Voice Modulation with RVC: Uses retrieval-based voice conversion for improved vocal quality and realistic outputs.
-Customizable and Extendable: Easily tweak and expand the system to experiment with different vocal styles and effects.
+- AI Song Generation: Input audio files and transform them into new, AI-generated voices.
+- Voice Modulation with RVC: Uses retrieval-based voice conversion for improved vocal quality and realistic outputs.
+- Customizable and Extendable: Easily tweak and expand the system to experiment with different vocal styles and effects.
 
 1) Download all the dependecies with following code:
 ```bash

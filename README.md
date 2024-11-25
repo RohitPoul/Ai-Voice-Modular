@@ -21,3 +21,16 @@ refer this link - https://pytorch.org/get-started/locally/
 4) I have take inspiration for alot of sources to create this project and special thankx to my friend Siddhart Mane for helping me with this idea and exicution.
 
 5) For downloading rvc models - https://rvc-models.com/
+
+6) Here are some screenshots for visual representation:
+   ![image](https://github.com/user-attachments/assets/d20800ac-6de0-49a5-b29e-892c5256aa55)
+
+   ![image](https://github.com/user-attachments/assets/4eb0748f-de25-44f0-ae72-c87d780b326d)
+
+   ![image](https://github.com/user-attachments/assets/8579943d-6242-4f3e-8619-560e3de4ba0d)
+
+   ![image](https://github.com/user-attachments/assets/d1da3006-884e-4076-bb5a-ce373498aadf)
+
+
+
+
